@@ -8,6 +8,6 @@ Lorem ipsum dolor…
 
 Ich bin ein neuer Blogbeitrag mit einem Bild
 
-![]({{ site.url }}/_deploy/images/blogimage-41911-69746.jpeg "Biiiiersssssssss")
+![]({{ site.url }}/images/blogimage-41911-69746.jpeg "Biiiiersssssssss")
 
 Und mit weiterem Text unter dem Bild
