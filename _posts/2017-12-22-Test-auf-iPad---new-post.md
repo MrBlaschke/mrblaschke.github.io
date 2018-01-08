@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test auf iPad - new post
+date: [[day_format]]
 tags: iPad, Jekyll
 ---
 
