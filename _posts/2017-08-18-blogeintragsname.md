@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "blogeintragsname foo"
+title:  "blogeintragsname foobar"
 date:  2017-08-18 21:08:45 +0200
 categories: jekyll frank test
 ---
