@@ -48,3 +48,4 @@ plugins:
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
+theme: jekyll-theme-tactile
