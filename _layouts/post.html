@@ -5,12 +5,12 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }}</p>
 <p class="category">{{ page.categories }}</p>
 
-
+<p>
 {% for cat in page.categories %}
- <!-- a class="tag" href="/blog/tag/#{{ cat | slugify }}">{{ cat }}</a -->
- <p>cat: {{ cat }}<p/>
+ <a class="tag" href="/blog/tag/#{{ cat | slugify }}">{{ cat }}</a>
+ <!-- Kategorie: {{ cat }}, -->
 {% endfor %}
-
+</p>
 
 
 <div class="post">
