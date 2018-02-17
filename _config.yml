@@ -1,3 +1,4 @@
 name: Frank Price, Developer and more
 markdown: kramdown
-theme: Modernist
+theme: jekyll-theme-modernist
+
