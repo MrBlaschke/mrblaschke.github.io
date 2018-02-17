@@ -6,7 +6,7 @@ layout: default
 <p class="category">{{ page.categories }}</p>
 
 
-{% for cat in post.categories %}
+{% for cat in page.categories %}
  <!-- a class="tag" href="/blog/tag/#{{ cat | slugify }}">{{ cat }}</a -->
  <p>cat: {{ cat }}<p/>
 {% endfor %}
