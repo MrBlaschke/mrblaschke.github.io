@@ -1,2 +1,6 @@
 name: Frank Price, Developer and more
 markdown: kramdown
+
+
+#Festlegen der Link-Struktur
+permalink: /blog/:year/:month/:day/:title
